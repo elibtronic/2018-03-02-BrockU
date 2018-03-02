@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "Software"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
+carpentry: "Software!"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "Brock University"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "1812 Sir Isaac Brock Way, St Catharines ON. L2M 2A1"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "CA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
